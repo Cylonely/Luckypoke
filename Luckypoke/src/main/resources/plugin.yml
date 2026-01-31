@@ -1,0 +1,9 @@
+name: Luckypoke
+main: cn.luckyblock.luckypoke.LuckyCobbleBlock
+version: 1.0
+api-version: 1.21
+commands:
+  luckyblock:
+    description: Lucky Cobblemon Block
+    usage: /luckyblock <give|reload>
+    permission: luckyblock.admin

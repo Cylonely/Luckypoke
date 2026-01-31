@@ -1,0 +1,9 @@
+cn\luckyblock\luckypoke\command\LuckyBlockCommand.class
+cn\luckyblock\luckypoke\util\WeightRandom.class
+cn\luckyblock\luckypoke\LuckyCobbleBlock.class
+cn\luckyblock\luckypoke\pokemon\PokemonPool.class
+cn\luckyblock\luckypoke\util\HeadUtil.class
+cn\luckyblock\luckypoke\pokemon\PokemonSpawner.class
+cn\luckyblock\luckypoke\block\LuckyBlockListener.class
+cn\luckyblock\luckypoke\config\LuckyBlockConfig.class
+cn\luckyblock\luckypoke\pokemon\GuaranteeManager.class
